@@ -1,0 +1,45 @@
+{
+  "productId": {
+    "S": "DSP_0002"
+  },
+  "interest": {
+    "S": "5.5"
+  },
+  "organizationCode": {
+    "S": "IDLC"
+  },
+  "productType": {
+    "S": "Short Term Product"
+  },
+  "totalSaving": {
+    "S": "2400"
+  },
+  "term": {
+    "S": "WEEKLY"
+  },
+  "amount": {
+    "S": "100"
+  },
+  "totalPayout": {
+    "S": "3200"
+  },
+  "tenure": {
+    "S": "2"
+  },
+  "activeFrom": {
+    "S": "2021-08-07"
+  },
+  "deActiveFrom": {
+    "S": "2040-08-06"
+  },
+  "availabilityOption": {
+    "L":[
+      {
+        "S":"CAPP"
+      },
+      {
+        "S":"AAPP"
+      }
+    ]
+  }
+}

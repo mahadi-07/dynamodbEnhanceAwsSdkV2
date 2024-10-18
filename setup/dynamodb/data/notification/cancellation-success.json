@@ -1,0 +1,17 @@
+{
+  "event": {
+    "S": "CANCELLATION_SUCCESSFUL"
+  },
+  "title": {
+    "S": "Savings Cancellation Request Submitted"
+  },
+  "headerText": {
+    "S": "Your Savings cancellation request has been submitted"
+  },
+  "detailsText": {
+    "S": "Your Savings cancellation request has been submitted. To receive the amount, please keep maximum balance of Tk. #amount# in your bKash Account."
+  },
+  "expiryTime": {
+    "N": "24"
+  }
+}

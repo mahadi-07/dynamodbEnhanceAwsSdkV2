@@ -1,0 +1,17 @@
+{
+  "event": {
+    "S": "DISBURSEMENT_SUCCESSFUL"
+  },
+  "title": {
+    "S": "Savings Amount Received"
+  },
+  "headerText": {
+    "S": "Your Savings amount has been successfully disbursed"
+  },
+  "detailsText": {
+    "S": "You have received your Savings amount of Tk. #amount# from #organizationCode# in your bKash Account."
+  },
+  "expiryTime": {
+    "N": "24"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "event": {
+    "S": "ONBOARDING_SUCCESS"
+  },
+  "title": {
+    "S": "Savings Request Submitted"
+  },
+  "headerText": {
+    "S": "Your Savings request has been submitted for processing"
+  },
+  "detailsText": {
+    "S": "Your request for creating a Savings Account from #organizationCode# has been submitted. First deposit of Tk. #amount# has been paid on #date#. Thank you for your Savings payment."
+  },
+  "expiryTime": {
+    "N": "24"
+  }
+}

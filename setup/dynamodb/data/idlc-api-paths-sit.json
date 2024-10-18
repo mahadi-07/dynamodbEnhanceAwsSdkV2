@@ -1,0 +1,119 @@
+{
+    "key": {
+        "S": "idlc-api-paths"
+    },
+    "values": {
+        "L": [
+            {
+                "M": {
+                    "key": {
+                        "S": "maturity-details"
+                    },
+                    "text": {
+                        "S": "MaturityDetail"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "send-kyc"
+                    },
+                    "text": {
+                        "S": "OpeningRequest"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "create-account"
+                    },
+                    "text": {
+                        "S": "OpenAcount"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "saving-details"
+                    },
+                    "text": {
+                        "S": "GetAccountInformation"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "nominee-update"
+                    },
+                    "text": {
+                        "S": "NomineeUpdate"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "bank-maturity"
+                    },
+                    "text": {
+                        "S": "BankMaturityRequest"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "account-deletion"
+                    },
+                    "text": {
+                        "S": "AccountDeletion"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "cancel-summary"
+                    },
+                    "text": {
+                        "S": "CancelSummeryRequest"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "send-etin"
+                    },
+                    "text": {
+                        "S": "UpdateETIN"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "bank-schedule-payment"
+                    },
+                    "text": {
+                        "S": "PaymentSchedule"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "auto-renewal-history"
+                    },
+                    "text": {
+                        "S": "autoRenewalHistory"
+                    }
+                }
+            }
+        ]
+    }
+}

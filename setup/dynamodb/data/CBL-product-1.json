@@ -1,0 +1,42 @@
+{
+  "productId": {
+    "S": "CBL_0001"
+  },
+  "interest": {
+    "S": "5"
+  },
+  "organizationCode": {
+    "S": "CBL"
+  },
+  "productType": {
+    "S": "Short Term Product"
+  },
+  "totalSaving": {
+    "S": "4800"
+  },
+  "term": {
+    "S": "WEEKLY"
+  },
+  "amount": {
+    "S": "200"
+  },
+  "totalPayout": {
+    "S": "5300"
+  },
+  "tenure": {
+    "S": "2"
+  },
+  "activeFrom": {
+    "S": "2021-10-01"
+  },
+  "deActiveFrom": {
+    "S": "2040-09-30"
+  },
+  "availabilityOption": {
+    "L": [
+      {
+        "S": "MAPP"
+      }
+    ]
+  }
+}

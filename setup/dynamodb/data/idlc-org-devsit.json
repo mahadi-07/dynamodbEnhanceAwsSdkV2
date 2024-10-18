@@ -1,0 +1,80 @@
+{
+   "organizationOperator":{
+      "S":"param 1"
+   },
+   "orgDisbursementId":{
+      "S":"123456"
+   },
+   "organizationDomain":{
+      "S":"https://DEVGWBKS.intra.idlc.com:7771/"
+   },
+   "address":{
+      "S":"Dhaka"
+   },
+   "termsAndConditionsUrl":{
+      "S":"www.example.com/idlc-term-condition.pdf"
+   },
+   "lastModifiedDate":{
+      "S":"2020-12-13T15:52:09.640404300"
+   },
+   "localizedNames":{
+      "L":[
+         {
+            "M":{
+               "value":{
+                  "S":"আইডিএলসি ফাইন্যান্স লিমিটেড"
+               },
+               "language":{
+                  "S":"bn"
+               }
+            }
+         },
+		 {
+            "M":{
+               "value":{
+                  "S":"IDLC Finance Limited"
+               },
+               "language":{
+                  "S":"en"
+               }
+            }
+         }
+      ]
+   },
+   "active":{
+      "BOOL":true
+   },
+   "merchantWalletNo":{
+      "S":"0171111111111"
+   },
+   "minPayCyclesToCancelSubscription":{
+      "S":"3"
+   },
+   "merchantShortCode":{
+      "S":"IDLCSC"
+   },
+   "cpsAPIParameters":{
+      "S":"param 2"
+   },
+   "createdDate":{
+      "S":"2020-12-13T15:52:09.640404300"
+   },
+   "organizationCode":{
+      "S":"IDLC"
+   },
+   "apiEndPoint":{
+      "S":"MFSServiceApi/api/V1/AccountOpening/"
+   },
+   "logo":{
+      "S":"www.example.com/ldlc-logo.png"
+   },
+   "privateKeyStorePassword":{
+      "S":"2ju32hxQf0QzDUpFrbd56n8qfrB9THCl"
+   },
+   "privateCertAliasName":{
+      "S": "sit-savings-selfsigned"
+   },
+   "privateCertPath":{
+      "S": "jks/sit-savings-keystore.pfx"
+   }
+}

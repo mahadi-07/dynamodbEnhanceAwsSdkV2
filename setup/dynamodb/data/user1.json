@@ -1,0 +1,20 @@
+{
+  "userId": {
+    "S": "1"
+  },
+  "username": {
+    "S": "admin"
+  },
+  "password": {
+    "S": "$2a$12$4PVr.bSQ3vBcZeOvRZUsXe1HENg6xB/2l2K76ByPBo6OOh8Ehtu0i"
+  },
+  "email": {
+    "S": "admin"
+  },
+  "is_active": {
+    "BOOL": true
+  },
+  "role": {
+    "S": "ADMIN"
+  }
+}

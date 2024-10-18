@@ -1,0 +1,45 @@
+{
+  "productId": {
+    "S": "DSP_0004"
+  },
+  "interest": {
+    "S": "7.5"
+  },
+  "organizationCode": {
+    "S": "IDLC"
+  },
+  "productType": {
+    "S": "Long Term Product"
+  },
+  "totalSaving": {
+    "S": "5000"
+  },
+  "term": {
+    "S": "MONTHLY"
+  },
+  "amount": {
+    "S": "200"
+  },
+  "totalPayout": {
+    "S": "5000"
+  },
+  "tenure": {
+    "S": "60"
+  },
+  "activeFrom": {
+    "S": "2021-06-07"
+  },
+  "deActiveFrom": {
+    "S": "2040-06-06"
+  },
+  "availabilityOption": {
+    "L":[
+      {
+        "S":"AAPP"
+      },
+      {
+        "S":"MAPP"
+      }
+    ]
+  }
+}

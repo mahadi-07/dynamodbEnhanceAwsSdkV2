@@ -1,0 +1,59 @@
+{
+    "key": {
+        "S": "notification-event"
+    },
+    "values": {
+        "L": [
+            {
+                "M": {
+                    "key": {
+                        "S": "subscription-success"
+                    },
+                    "text": {
+                        "S": "Your subscription has been created successfully."
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "subscription-canceled"
+                    },
+                    "text": {
+                        "S": "Your subscription has been canceled successfully."
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "subscription-failed"
+                    },
+                    "text": {
+                        "S": "Your subscription failed"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "onboarding-submission-success"
+                    },
+                    "text": {
+                        "S": "Your onboarding request has been submitted successfully."
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "onboarding-submission-failed"
+                    },
+                    "text": {
+                        "S": "Your onboarding request failed."
+                    }
+                }
+            }
+        ]
+    }
+}

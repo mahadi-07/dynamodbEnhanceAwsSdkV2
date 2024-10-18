@@ -1,0 +1,17 @@
+{
+  "event": {
+    "S": "ASSISTED_REQUEST_SUBMITTED"
+  },
+  "title": {
+    "S": "Savings Assisted Request Submitted"
+  },
+  "headerText": {
+    "S": "Your Savings assisted request has been submitted for processing"
+  },
+  "detailsText": {
+    "S": "Your request for creating a Assisted Savings Account from #organizationCode# has been submitted. First deposit of Tk. #amount#."
+  },
+  "expiryTime": {
+    "N": "24"
+  }
+}

@@ -1,0 +1,39 @@
+{
+   "key":{
+      "S":"product-types"
+   },
+   "values":{
+      "L":[
+         {
+            "M":{
+               "key":{
+                  "S":"01856144-aa43-49be-ab86-60a994d31abc"
+               },
+               "text":{
+                  "S":"Long Term Product"
+               }
+            }
+         },
+		 {
+            "M":{
+               "key":{
+                  "S":"01856144-aa43-49be-ab86-60a994d31def"
+               },
+               "text":{
+                  "S":"Short Term Product"
+               }
+            }
+         },
+		 {
+            "M":{
+               "key":{
+                  "S":"01856144-aa43-49be-ab86-60a994d31ghi"
+               },
+               "text":{
+                  "S":"Basic Savings"
+               }
+            }
+         }
+      ]
+   }
+}

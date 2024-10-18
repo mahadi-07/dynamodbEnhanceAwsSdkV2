@@ -1,0 +1,149 @@
+{
+    "key": {
+        "S": "idlc-api-paths-v2"
+    },
+    "values": {
+        "L": [
+            {
+                "M": {
+                    "key": {
+                        "S": "maturity-details"
+                    },
+                    "text": {
+                        "S": "maturity-details"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "send-kyc"
+                    },
+                    "text": {
+                        "S": "send-kyc"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "create-account"
+                    },
+                    "text": {
+                        "S": "create-account"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "saving-details"
+                    },
+                    "text": {
+                        "S": "account-details"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "nominee-update"
+                    },
+                    "text": {
+                        "S": "nominee-update"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "bank-maturity"
+                    },
+                    "text": {
+                        "S": "bank-maturity"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "account-deletion"
+                    },
+                    "text": {
+                        "S": "account-deletion"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "cancel-summary"
+                    },
+                    "text": {
+                        "S": "cancel-summary"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "send-etin"
+                    },
+                    "text": {
+                        "S": "send-etin"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "bank-schedule-payment"
+                    },
+                    "text": {
+                        "S": "bank-schedule-payment"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "installment-plan"
+                    },
+                    "text": {
+                        "S": "installment-plan"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "auto-renewal-hist"
+                    },
+                    "text": {
+                        "S": "auto-renewal-hist"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "auto-renewal-info"
+                    },
+                    "text": {
+                        "S": "auto-renewal-info"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "key": {
+                        "S": "instalment-pay"
+                    },
+                    "text": {
+                        "S": "instalment-pay"
+                    }
+                }
+            }
+        ]
+    }
+}

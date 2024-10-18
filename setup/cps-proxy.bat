@@ -1,0 +1,6 @@
+aws ssm --endpoint-url http://localhost:4566 put-parameter --name "/dev/capp/cps/caller/id" --type String --value "PEAKY_TEST" --overwrite
+aws ssm --endpoint-url http://localhost:4566 put-parameter --name "/dev/capp/cps/caller/pass" --type String --value "Yd7bmhPA9OcZxLeNbfqn61HE179drxDwHK6WRa2b1GwWN6tqRdQEaugPQin4Oiw/rGkZx0yokF4JL5sRfJETXWnWAK32ZcQwEMolYKZb19agp5uqN0XUblrepmQeMxaG+zqJec1a+VKZDE1T8CEBCWvdIyXggWMnzwJIlgJHcjrultuju5C4GJTsO8GN/Kk43dXnF/vRpFDcfORS79jqCmb4B+uBKVwVtKnz0iyl688N65kTKIt6YIntF39Y5roU+LFW/tGDxQ2b9bPOLEERKfuthuhVX/hM7yH3lvjKmoAl0731MQulQ8zokiopC5ZR90dhlP3CgGn+c7d/Z44qHQ==" --overwrite
+aws ssm --endpoint-url http://localhost:4566 put-parameter --name "/dev/capp/cps/sp/id" --type String --value "send-etin" --overwrite
+aws ssm --endpoint-url http://localhost:4566 put-parameter --name "/dev/capp/cps/sp/pass" --type String --value "changeit" --overwrite
+aws ssm --endpoint-url http://localhost:4566 put-parameter --name "/dev/capp/cps/cert/pass" --type String --value "changeit" --overwrite
+aws ssm --endpoint-url http://localhost:4566 put-parameter --name "/dev/capp/cps/tep/aesKey" --type String --value "256" --overwrite

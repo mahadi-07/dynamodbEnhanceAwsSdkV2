@@ -1,0 +1,17 @@
+{
+  "event": {
+    "S": "MATURED_READY_TO_BE_DISBURSED"
+  },
+  "title": {
+    "S": "Savings Ready to be Disbursed"
+  },
+  "headerText": {
+    "S": "Your Savings maturity amount is ready to be disbursed"
+  },
+  "detailsText": {
+    "S": "Your Savings maturity amount is ready to be disbursed from #organizationCode#. To receive the amount, please keep maximum balance of Tk. #amount# in your bKash Account."
+  },
+  "expiryTime": {
+    "N": "72"
+  }
+}

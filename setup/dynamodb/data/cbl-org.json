@@ -1,0 +1,68 @@
+{
+   "organizationOperator":{
+      "S":"param 1"
+   },
+   "orgDisbursementId":{
+      "S":"654321"
+   },
+   "organizationDomain":{
+      "S":"https://devgwbks.intra.idlc.com:7771/"
+   },
+   "address":{
+      "S":"Dhaka"
+   },
+   "termsAndConditionsUrl":{
+      "S":"www.example.com/cbl-term-condition.pdf"
+   },
+   "lastModifiedDate":{
+      "S":"2020-12-13T15:52:09.640404300"
+   },
+   "localizedNames":{
+      "L":[
+         {
+            "M":{
+               "value":{
+                  "S":"সিটি ব্যাংক লিমিটেড"
+               },
+               "language":{
+                  "S":"bn"
+               }
+            }
+         },
+		 {
+            "M":{
+               "value":{
+                  "S":"City Bank Limited"
+               },
+               "language":{
+                  "S":"en"
+               }
+            }
+         }
+      ]
+   },
+   "active":{
+      "BOOL":true
+   },
+   "merchantWalletNo":{
+      "S":"0171111111111"
+   },
+   "minPayCyclesToCancelSubscription":{
+      "S":"3"
+   },
+   "cpsAPIParameters":{
+      "S":"param 2"
+   },
+   "createdDate":{
+      "S":"2020-12-13T15:52:09.640404300"
+   },
+   "organizationCode":{
+      "S":"CBL"
+   },
+   "apiEndPoint":{
+      "S":"MFSServiceApi/api/V1/AccountOpening/"
+   },
+   "logo":{
+      "S":"www.example.com/cbl-logo.png"
+   }
+}

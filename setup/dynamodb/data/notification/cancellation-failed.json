@@ -1,0 +1,17 @@
+{
+  "event": {
+    "S": "CANCELLATION_FAILED"
+  },
+  "title": {
+    "S": "Savings Cancellation Request Failed"
+  },
+  "headerText": {
+    "S": "Your Savings cancellation request has failed."
+  },
+  "detailsText": {
+    "S": "Your Savings cancellation request has failed. Please try again."
+  },
+  "expiryTime": {
+    "N": "24"
+  }
+}

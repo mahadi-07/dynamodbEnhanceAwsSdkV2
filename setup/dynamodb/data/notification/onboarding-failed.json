@@ -1,0 +1,17 @@
+{
+  "event": {
+    "S": "ONBOARDING_FAILED"
+  },
+  "title": {
+    "S": "Savings Request Failed"
+  },
+  "headerText": {
+    "S": "Your Savings request has failed"
+  },
+  "detailsText": {
+    "S": "Your Savings request has failed. Please try again."
+  },
+  "expiryTime": {
+    "N": "24"
+  }
+}
